@@ -7,7 +7,7 @@ This project focuses on recreating a clean and modern music player interface —
 
 ## 🚀 Live Preview
 
-👉 https://bhumik a-sahu-bit.github.io/spotify-clone/
+👉 https://bhumika-sahu-bit.github.io/spotify-clone/
 
 ---
 
